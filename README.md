@@ -24,5 +24,3 @@
   
 </div>
   
-  ![snake gif](https://github.com/carolineconte/carolineconte/blob/output/github-contribution-grid-snake.svg)
-
