@@ -1,9 +1,5 @@
 ### Oie eu sou a Caroline Conte, aspirante a desenvolvedora Full Stack!
 
-<!--
-**carolineconte/carolineconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 Comecei a estudar a um mês e aqui vou documentar essa jornada...
 
 ![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=carolineconte&show_icons=true&theme=panda)
