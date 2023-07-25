@@ -1,7 +1,7 @@
 ### Hi 👋🏻 <br> My name is Caroline Conte :) 
 🔭 I'm a full-stack development student and this is my journey in this incredible universe!
 
-I'm Brazilian 🇧🇷 and I currently live in Italy 🇮🇹  
+  
 
 ![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=carolineconte&show_icons=true&theme=panda)
 
