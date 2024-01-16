@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
 <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="git logo" title="git" height="30" />
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#24E1E" alt="git logo" title="git" height="30" />
+<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
 </div>
 <br><br>
 
@@ -26,7 +27,6 @@
 ## 📖  What I am currently learning / improving on
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 </div>
 
